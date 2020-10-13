@@ -1,0 +1,6 @@
+{
+    "require": {
+        "imangazaliev/didom": "^1.16",
+        "colshrapnel/safemysql": "^1.1"
+    }
+}
